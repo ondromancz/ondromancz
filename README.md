@@ -62,9 +62,4 @@
   <i>"Tetaplah hidup"</i>
 </p>
 
----
-
-<p align="center">
-  <sub>Made with lots of coffee</sub>
-</p>
 
