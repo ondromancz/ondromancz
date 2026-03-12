@@ -54,10 +54,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondromancz&theme=github-compact&hide_border=true&area=true" width="90%"/>
-</p>
-
 ---
 
 ### Quote
