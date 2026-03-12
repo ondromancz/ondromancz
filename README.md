@@ -54,10 +54,6 @@
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/ondromancz" width="90%"/>
-</p>
-
 ---
 
 ### Quote
