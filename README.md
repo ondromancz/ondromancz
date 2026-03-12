@@ -20,11 +20,14 @@
 
 ### Tech Stack
 
-```text
-Frontend     : HTML5 • CSS3 • JavaScript • React
-Backend      : Laravel • PHP
-Design       : Figma
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
@@ -53,15 +56,13 @@ Design       : Figma
 
 ---
 
-### Fun Facts
+### Quote
 
-- Nasi Padang > segalanya
-- Pecinta kucing & meme
-- Kopi hitam tanpa gula
+- Tetaplah hidup
 
 ---
 
 <p align="center">
-  <sub>Made with curiosity and lots of coffee</sub>
+  <sub>Made with lots of coffee</sub>
 </p>
 
