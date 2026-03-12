@@ -58,7 +58,9 @@
 
 ### Quote
 
-- Tetaplah hidup
+<p align="center">
+  <i>"Tetaplah hidup"</i>
+</p>
 
 ---
 
