@@ -2,11 +2,11 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:16213e&height=120&text=Ganendra%20Dzahwan&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=50)
-  
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="380"/>
   
-  ### Web Developer & UI/UX Enthusiast
+  ## Ganendra Dzahwan
+  
+  **Web Developer & UI/UX Enthusiast**
   
   Mahasiswa yang passionate di bidang Web Development & UI/UX Design.<br/>
   Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
@@ -52,6 +52,10 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=default&hide_border=true&border_radius=8"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8" width="320"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ondromancz&theme=github-compact&hide_border=true&area=true" width="90%"/>
 </p>
 
 ---
