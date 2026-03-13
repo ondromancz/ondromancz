@@ -80,7 +80,7 @@ Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
 <h3 align="center">Quote</h3>
 
 <p align="center">
-  <i>“Nasi padang.”</i><br/>
+  <i>“Nasi padang itu sangat enak.”</i><br/>
 </p>
 
 <p align="center">
