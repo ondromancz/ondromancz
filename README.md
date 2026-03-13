@@ -1,5 +1,9 @@
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e3a8a&section=header" width="100%"/>
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="520"/>
 
@@ -23,6 +27,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -33,7 +38,7 @@
 <h3 align="center">GitHub Contributions & Stats</h3>
 
 <div align="center">
-  <table cellpadding="8" cellspacing="0">
+  <table cellpadding="10" cellspacing="0" align="center">
     <tr>
       <td>
         <picture>
@@ -67,6 +72,10 @@
 
 <p align="center">
   <i>“Tetaplah hidup.”</i><br/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,100:0f172a&section=footer" width="100%"/>
 </p>
 
 
