@@ -1,16 +1,20 @@
 
 
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="380"/>
-  
-  ## Ganendra Dzahwan
-  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="420"/>
+
+  # Ganendra Dzahwan
+
   **Web Developer & UI/UX Enthusiast**
-  
+
   Mahasiswa yang passionate di bidang Web Development & UI/UX Design.<br/>
   Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
-  
+
+  <b>GitHub Profile:</b><br/>
+  <a href="https://github.com/ondromancz">github.com/ondromancz</a>
+
+  <br/>
+
   [![GitHub](https://img.shields.io/badge/-ondromancz-181717?style=flat-square&logo=github)](https://github.com/ondromancz)
   [![Instagram](https://img.shields.io/badge/-ganendzahw-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ganendzahw)
 
@@ -31,7 +35,7 @@
 
 ---
 
-### GitHub Stats
+### GitHub Contributions & Stats
 
 <p align="center">
   <picture>
@@ -59,7 +63,7 @@
 ### Quote
 
 <p align="center">
-  <i>"Tetaplah hidup"</i>
+  <i>“Tetaplah hidup.”</i>
 </p>
 
 
