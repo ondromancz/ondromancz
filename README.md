@@ -6,7 +6,6 @@
   # Ganendra Dzahwan
 
   **Web Developer & UI/UX Enthusiast**
-
   <br/>
 
   Mahasiswa yang passionate di bidang Web Development & UI/UX Design.<br/>
