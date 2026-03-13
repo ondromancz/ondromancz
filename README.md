@@ -87,4 +87,3 @@ Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1d4ed8,45:0f172a,100:020617&section=footer" width="100%"/>
 </p>
 
-
