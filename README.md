@@ -11,9 +11,7 @@
 
   Mahasiswa yang passionate di bidang Web Development & UI/UX Design.<br/>
   Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
-
   <br/><br/>
-
   [![Instagram](https://img.shields.io/badge/-ganendzahw-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ganendzahw)
 
 </div>
