@@ -1,11 +1,13 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="420"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemhkdTYyNG9ncXpuc2FlYWJsOWVsNGgwZnpuZGRnNDduOWJvMHk0aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EyiufcIwTdF35pNIFS/giphy.gif" width="500"/>
 
   # Ganendra Dzahwan
 
   **Web Developer & UI/UX Enthusiast**
+
+  <br/>
 
   Mahasiswa yang passionate di bidang Web Development & UI/UX Design.<br/>
   Suka belajar teknologi baru & membangun aplikasi web yang user-friendly.
@@ -13,16 +15,15 @@
   <b>GitHub Profile:</b><br/>
   <a href="https://github.com/ondromancz">github.com/ondromancz</a>
 
-  <br/>
+  <br/><br/>
 
-  [![GitHub](https://img.shields.io/badge/-ondromancz-181717?style=flat-square&logo=github)](https://github.com/ondromancz)
   [![Instagram](https://img.shields.io/badge/-ganendzahw-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ganendzahw)
 
 </div>
 
 ---
 
-### Tech Stack
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -35,35 +36,43 @@
 
 ---
 
-### GitHub Contributions & Stats
+<h3 align="center">GitHub Contributions & Stats</h3>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=default&hide_border=true&border_radius=8"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" width="400"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=default&hide_border=true&border_radius=8"/>
-    <img src="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8" width="400"/>
-  </picture>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=default&hide_border=true&border_radius=8"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" width="400"/>
+        </picture>
+      </td>
+      <td>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8"/>
+          <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=default&hide_border=true&border_radius=8"/>
+          <img src="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8" width="400"/>
+        </picture>
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
+  <br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=default&hide_border=true&border_radius=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8" width="320"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8" width="380"/>
   </picture>
-</p>
+</div>
 
 ---
 
-### Quote
+<h3 align="center">Quote</h3>
 
 <p align="center">
-  <i>“Tetaplah hidup.”</i>
+  <i>“Tetaplah hidup.”</i><br/>
 </p>
 
 
