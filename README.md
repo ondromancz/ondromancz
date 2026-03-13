@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,100:1e3a8a&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:020617,50:0f172a,100:1d4ed8&section=header" width="100%"/>
 </p>
 
 <div align="center">
@@ -19,6 +19,10 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1d4ed8&height=2&section=header" width="100%"/>
+</p>
+
 ---
 
 <h3 align="center">Tech Stack</h3>
@@ -33,6 +37,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1d4ed8,100:0f172a&height=2&section=header" width="100%"/>
+</p>
+
 ---
 
 <h3 align="center">GitHub Contributions & Stats</h3>
@@ -44,14 +52,14 @@
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8"/>
           <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=default&hide_border=true&border_radius=8"/>
-          <img src="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=github_dark&hide_border=true&border_radius=8" width="410"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=ondromancz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5" width="410"/>
         </picture>
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8"/>
+          <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=tokyonight&hide_border=true&border_radius=10"/>
           <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=ondromancz&theme=default&hide_border=true&border_radius=8"/>
-          <img src="https://streak-stats.demolab.com/?user=ondromancz&theme=github-dark-blue&hide_border=true&border_radius=8" width="410"/>
+          <img src="https://streak-stats.demolab.com/?user=ondromancz&theme=tokyonight&hide_border=true&border_radius=10" width="410"/>
         </picture>
       </td>
     </tr>
@@ -60,9 +68,9 @@
   <br/>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=default&hide_border=true&border_radius=8"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=github_dark&hide_border=true&border_radius=8" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ondromancz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=7aa2f7" width="420"/>
   </picture>
 </div>
 
@@ -75,7 +83,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e3a8a,100:0f172a&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1d4ed8,50:0f172a,100:020617&section=footer" width="100%"/>
 </p>
 
 
